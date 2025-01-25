@@ -15,7 +15,7 @@
 
 ## <span style="color:#ADD8E6"> Description </span>
 
-This is a two part lab where you will learn how to build a simple full stack web application using PostgreSQL, ExpressJS, React.js, and Node.js, and you will build upon this application. Here's a brief overview of all the technologies you will explore in this lab:
+In this lab you will learn how to build a simple backend application using PostgreSQL, ExpressJS, React.js, and Node.js, and you will build upon this application. Here's a brief overview of all the technologies you will explore in this lab:
 
 ### PostgreSQL
 
