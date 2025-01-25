@@ -1,4 +1,4 @@
-# <span style="color:#ADD8E6">Creating Your First Backend</span>
+# <span style="color:#ADD8E6">CSCC01 Backend Lab Winter 2025</span>
 
 <div align="right"> </div>
 
